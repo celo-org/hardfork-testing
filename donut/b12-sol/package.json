@@ -15,7 +15,7 @@
   "author": "James Prestwich",
   "license": "MIT OR Apache-2.0",
   "dependencies": {
-    "@celo/contractkit": "^1.0.2",
+    "@celo/contractkit": "^1.2.0",
     "@celo/typescript": "0.0.1",
     "@summa-tx/memview.sol": "^1.1.0",
     "big-integer": "^1.6.44",
