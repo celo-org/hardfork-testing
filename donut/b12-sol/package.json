@@ -21,7 +21,7 @@
     "big-integer": "^1.6.44",
     "bls12377js": "https://github.com/celo-org/bls12377js#cb38a4cfb643c778619d79b20ca3e5283a2122a6",
     "ts-node": "^9.1.1",
-    "typescript": "^4.2.3"
+    "typescript": "^4.3.5"
   },
   "devDependencies": {
     "@nomiclabs/buidler": "^1.4.8",
